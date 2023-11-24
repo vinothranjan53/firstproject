@@ -1,2 +1,2 @@
-status feature added msg app -issue fixed
+status feature added msg app -issue fixed new
 code fix done for status feature
