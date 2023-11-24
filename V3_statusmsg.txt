@@ -1,1 +1,2 @@
 status feature added msg app
+code fix done for status feature
